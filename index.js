@@ -6,9 +6,9 @@ this.veto = function() {
 console.log(`"No, I must disagree"`);
 }
 this.approve = function() {
-console.log(`"You can do that!""`);
+console.log(`"You can do that!"`);
 }
-this.doCharity = function () {''
-console.log(`"I like to help people.`);
+this.doCharity = function () {
+console.log(`"I like to help people."`);
 }
 }
